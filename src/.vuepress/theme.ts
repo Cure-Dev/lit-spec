@@ -1,5 +1,5 @@
 import { hopeTheme } from "vuepress-theme-hope";
-import { enNavbar, zhNavbar } from "./navbar/index.js";
+import { enNavbar, zhNavbar } from "./navbar/index.ts";
 import { enSidebar, zhSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
